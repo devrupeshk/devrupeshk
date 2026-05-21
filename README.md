@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://x.com/devrupeshk" target="blank"><img src="https://img.shields.io/twitter/follow/devrupeshk?logo=twitter&style=for-the-badge" alt="devrupeshk" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Project<br>🌱 I’m currently learning full stack Technologies<br>💬 Ask me about React , JavaScript , CSS , html ,Python , next.js , java<br>📫 How to reach me rupeshk6555@gmail.com
+🔭 I’m currently working on MERN Project<br>🌱 I’m currently learning full stack Technologies<br>💬 Ask me about React , JavaScript , CSS , html ,Python , next.js , java<br> 
 
 
 ## 🌐 Socials:
